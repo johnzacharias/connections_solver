@@ -9,6 +9,6 @@ How to Run
 
 -Install Requirements
 
-- Download 50 dimensional GloVe file (from Stanford site or Kaggle)
+-Download 50 dimensional GloVe file (from Stanford site or Kaggle) and place it in /data/
 
 -Run solve_puzzle.py after replacing the array of words with your own array of 16 words
