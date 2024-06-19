@@ -6,5 +6,7 @@ The model was trained on a json dataset of past Connections games using the Stan
 How to Run
 
 -Clone Repository
+
 -Install Requirements
+
 -Run solve_puzzle.py after replacing the array of words with your own array of 16 words
